@@ -23,4 +23,4 @@ I'm really interested in improve my tech and soft skills working in different pr
 
 ## ¿Are you curious to know more about me? 🧐
 
-You can visit my [LinkedIn](https://www.linkedin.com/in/anabel%C3%A9ngonzalvez/) and my [Github](https://github.com/AnaGonzalvez), or you can send me an Email to anaa.gonzalvez2@gmail.com.
+You can visit my [LinkedIn](https://www.linkedin.com/in/anabel%C3%A9ngonzalvez/) and my [Github](https://github.com/AnaGonzalvez), or you can send me an [Email](mailto:anaa.gonzalvez2@gmail.com) or contact me throw the contact form in my [portfolio page](https://anagonzalvez.github.io/).
